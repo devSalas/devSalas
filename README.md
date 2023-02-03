@@ -1,13 +1,26 @@
-<img src="./img/perfil3.jpg" style="border-radius:50%">
+<img src="./img/1.png"  style="">
 <h1> Hey! Soy Esteban Salas👋   </h1>
- <h2>   Soy Desarrollador javascript </h2>
+ <h2 style="text-align:center; padding:10px 0"> Soy desarrollador Full Stack con +1 año de experiencia</h2>
+
+<h2>
+  
+</h2>
+
+
 
 ```js
  const Esteban={
- name: "Eseban Salas Sulca",
+ nombreCompleto: "Esteban Salas Sulca",
  correo:"esalassulca@gmail.com",
- tecnologies:["html","css","javascript","git","react",...more]
+ tecnologias:[
+ "HTML",
+ "CSS",
+ "JavaScript",
+ "git",
+ "react",
+ "PHP",
+ "Laravel"
+ ...more]
  }
  
 ```
-
