@@ -19,7 +19,8 @@
  "git",
  "react",
  "PHP",
- "Laravel"
+ "Laravel",
+ "wordpress",
  ...more]
  }
  
